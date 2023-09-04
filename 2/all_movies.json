@@ -1,0 +1,227 @@
+
+[
+
+{
+	
+	"categoryId": "1",
+	"categoryTitle":"Doctrina Biblica",
+	"categoryItemList": [
+
+   {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20-%20Domingo%2010%20de%20Abril%2C%202022.mp4?alt=media&token=d273b7b9-dfa4-42b0-9e9a-5a2c396a81f5",
+         "id": 6,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
+         "movieName":"La cena del Señor",
+         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
+
+
+       },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FPecados%20de%20Filosof%C3%ADa%20-Hno.%20Kevin%20Taylor.mp4?alt=media&token=5ab40eea-599c-4a76-955d-2f78de040940",
+        "id":7,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "Pecados de Filosofía",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+       },
+
+     {
+
+  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2F%C2%BFPor%20qu%C3%A9%20Participar%20en%20Misiones-%20-%20Pastor%20Juan%20de%20Dios%20Garza.mp4?alt=media&token=4b0c46a1-0859-40da-a80b-0c72da4c0866",
+ 	 	  "id": 1,
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJuan%20de%20Dios.png?alt=media&token=6983708e-ba98-4dce-b155-62407a9187d8",
+ 	 	  "movieName":"¿Por qué Participar en Misiones?",
+          "descriPcion":"Iglesia Bautista Fundamental Betesda, A.R., Pastor Juan de Dios Garza"
+        },
+
+        {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FUna%20Iglesia%20Bautista%20(Bautista%20Fundamental).mp4?alt=media&token=5fdad080-95bd-4524-9a64-4750940546ea",
+ 	 	  "id": 2,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+ 	 	  "movieName": "¿Porque somos Bautistas?",
+          "descriPcion": "Iglesia Bautista de Santa Ana, Pastor Ringo Ayala."
+
+
+       },
+
+          
+    {
+
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FG%C3%A9nesis%201-1%20__%20La%20Creaci%C3%B3n%20de%20la%20Tierra%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=62c620ca-0b1b-4a7c-837d-d79f8b71636d",
+        "id": 3,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "La Creación de la Tierra",
+          "descriPcion": "Iglesia Bautista de Santa Ana, Ringo Ayala"
+        },
+
+       
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Tribunal%20de%20Cristo%20%20-%20Luis%20Parada.mp4?alt=media&token=7748761e-92ef-41f6-843f-02255234ae90",
+        "id": 4,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+        "movieName": "El Tribunal de Cristo",
+          "descriPcion": "Iglesia Bautista Bíblica de Long Beach, Luis Parada"
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Premio%20de%20Todo%20Cristiano%20-%20Filipenses%203-7-14%20-%20Pastor%20Luis%20Ramos%20-%20Culto%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=3e254ead-eafc-4ed1-8cdc-fbc439b5f29e",
+        "id": 5,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+        "movieName": "El Premio de Todo Cristiano",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
+
+
+       }
+
+    ]
+
+  },
+
+
+  {
+	
+    "categoryId": "2",
+	"categoryTitle":"Doctrina de Salvacion",
+	"categoryItemList": [
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2F%C2%BFC%C3%B3mo%20Ser%20Salvo-%20-%20Tito%203-1-7%20-%20Pastor%20Luis%20Ramos%20-%20Culto%20Dominical%20Matutino.mp4?alt=media&token=57791efb-b668-496a-9b05-83303369a5b6",
+          "id": 1,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+          "movieName": "¿Cómo Ser Salvo?",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
+
+
+       },
+       
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FSalvaci%C3%B3n%20Perpetua%20-%20Dr.%20Ezequiel%20Salazar.mp4?alt=media&token=2b9c335f-5a2e-479d-a0d0-af8abe6a006c",
+ 	 	  "id": 2,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+ 	 	  "movieName": "Salvacion Perpetua",
+          "descriPcion": "Pastor Ezequiel Salazar. (Predicacion inicial al minuto 21:45)"
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLA%20SALVACI%C3%93N%20ES%20POR%20GRACIA%20_%20PASTOR%20HECTOR%20AVILA%20LARA.mp4?alt=media&token=3e0ab32a-c58a-4b15-b010-97c22c0a8957",
+ 	 	  "id": 3,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+ 	 	  "movieName": "Salvacion por gracia",
+          "descriPcion": "Iglesia Bautista Monte Sinai, Pastor Hector Avila Lara"
+
+
+       }
+    
+    ]
+
+  },
+
+  {
+  
+    "categoryId": "3",
+  "categoryTitle":"Rapto",
+  "categoryItemList": [
+
+
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Rapto%20-%20Pastor%20Andr%C3%A9s%20G%C3%B3mez%2C%20Jr.%2003_22_20%20Domingo%20AM.mp4?alt=media&token=8b935993-d39e-4af1-b77c-46b1d7d19557",
+          "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+        "movieName": "El Rapto",
+        "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+
+
+       },
+       
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Tribunal%20de%20Cristo%20%20-%20Luis%20Parada.mp4?alt=media&token=7748761e-92ef-41f6-843f-02255234ae90",
+      "id": 2,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+         "movieName": "El Tribunal de Cristo",
+         "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLos%20Siete%20Sellos%20-%20La%20Gran%20Tribulacion%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr..mp4?alt=media&token=85ae4a31-e948-4a9b-adb2-2567e8e1b22b",
+      "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+        "movieName": "Los Siete Sellos - La Gran Tribulacion",
+        "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
+
+
+       },
+        {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLa%20Segunda%20Venida%20de%20Cristo%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=06f1aaea-9ec7-42ac-932a-b3e3adf1a7a4",
+          "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+         "movieName": "La Segunda Venida de Cristo",
+         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+
+       }, 
+       {
+
+       "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLa%20Segunda%20Venida%20de%20Cristo%20con%20Poder%20y%20Gran%20Gloria.mp4?alt=media&token=aeb3965c-50b9-46c7-8a9d-0781ed492b74",
+          "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+         "movieName": "La Segunda Venida de Cristo con Poder",
+         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+
+       } 
+      ]
+
+    },
+
+  {
+
+
+    "categoryId": "2",
+  "categoryTitle":"La Creacion",
+  "categoryItemList": [
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N13-18-04%2F_La%20Falacia%20de%20la%20evoluci%C3%B3n_%20Dr.%20Rafael%20Tavares.mp4?alt=media&token=e9ceba81-d608-43a1-8745-c644745fd6f2",
+          "id": 1,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Frobert%20walker.png?alt=media&token=1a53f41b-7a1b-421a-9da0-b2ce857330ba",
+          "movieName": "La Falacia de la evolución",
+          "descriPcion": "Iglesia Bautista El Camino, Pastor Robert Walker"
+       },
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FPastor%20H%C3%A9ctor%20%C3%81vila%20Lara-%20Estudio%20B%C3%ADblico%20Prof%C3%A9tico%20-EL%20CIELO-.mp4?alt=media&token=119643c0-6e6f-4799-bd5f-cdd265392e00",
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+        "movieName": "¿Que es el Cielo?",
+        "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
+
+       }
+    
+    ]
+
+  }
+
+]
